@@ -8,12 +8,4 @@
     • Blockchain Application: DePIN, DeFi, NFT, Blockchain AI Agents, AI Dao, DApps, DEX, P2E and Smart Contract with Solidity, Rust and Cosmos SDK
 
     • Bot Development: Telegram Bot & Trading Bot Development(Sniper Bot, Volume Bot, Signal Bot, Launch Bundling Bot)
-  
-<br>
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CryptoRonaldo&theme=dark"/>
-  </a>
-</p>
-
 <br>
